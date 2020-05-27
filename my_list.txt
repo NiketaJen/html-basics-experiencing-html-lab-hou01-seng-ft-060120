@@ -1,0 +1,5 @@
+"pillows"
+"rugs"
+"tv console"
+"lamp"
+"side table"
